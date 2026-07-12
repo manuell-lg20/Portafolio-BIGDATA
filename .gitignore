@@ -1,0 +1,5 @@
+node_modules/
+frontend-viewer/dist/
+frontend-admin/dist/
+.env
+.DS_Store

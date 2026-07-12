@@ -1,0 +1,21 @@
+{
+  "name": "bigdata-portfolio-backend",
+  "version": "1.0.0",
+  "description": "API del portafolio de Big Data (16 modulos semanales)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^2.0.1",
+    "pg": "^8.13.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
