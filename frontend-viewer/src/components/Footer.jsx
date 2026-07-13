@@ -7,7 +7,7 @@ export default function Footer() {
         <p>
           Portafolio de documentación · Curso de Big Data · {new Date().getFullYear()}
         </p>
-        <p className="footer-muted">Construido con React, Express y desplegado en Render.</p>
+        <p className="footer-muted">Evidencias de trabajos de VMLG.</p>
       </div>
     </footer>
   );

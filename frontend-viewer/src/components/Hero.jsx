@@ -32,9 +32,9 @@ export default function Hero({ totalModules, completedCount, onExplore }) {
   return (
     <section className="hero">
       <div className="hero-copy">
-        <p className="eyebrow">Documentación · Curso de Big Data</p>
+        <p className="eyebrow">Profesor / Mgt. Claudio Isaias Huancahuire Bravo</p>
         <h1>
-          Un pipeline de datos,
+          Logros de apendizaje,
           <br />
           documentado paso a paso.
         </h1>
